@@ -1,7 +1,7 @@
 .App-header {
-  background-color: #222;
+  background-color: rgb(230, 171, 181);
   padding-bottom: 0.5rem;
-  color: white;
+  color: rgb(120, 92, 122);
   position: fixed;
   width: 100%;
 }
